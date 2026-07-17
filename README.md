@@ -1,4 +1,4 @@
-# 🧮Premium Calculator
+# 🧮CALCI Premium Calculator
 
 A premium, feature-rich, and highly polished **frontend-only calculator application** designed with modern typography, glassmorphic interfaces, and responsive layouts. Built entirely using raw vanilla technologies (HTML5, CSS3, and ES6 Javascript modules) with **zero dependencies**.
 
