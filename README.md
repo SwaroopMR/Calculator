@@ -98,4 +98,4 @@ Since this is a client-side frontend application built with native ES Modules, i
 ## 📜 License & Agreements
 Distributed under the **MIT License**. View terms and agreements inside the **About** section of the app. 
 
-*© 2026 Antigravity Calculator. All rights reserved.*
+*© 2026 CALCI Calculator. All rights reserved.*
